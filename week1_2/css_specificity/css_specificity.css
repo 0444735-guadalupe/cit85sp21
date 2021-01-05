@@ -1,0 +1,58 @@
+div, p, h1 {
+    border: 2px solid black;
+    width: 100%;
+    height: 200px;
+}
+
+/* 0-1-1 */
+p.classer1 {
+    background-color: ivory;
+    color: red;
+}
+
+/* 0-1-1 */
+p.classer2 {
+    background-color: peachpuff;
+}
+
+/* 0-1-1 */
+p.classer3 {
+    background-color: powderblue;
+    color: white;
+}
+
+/* 0-0-2 */
+div > p {
+    color: steelblue;
+}
+
+/* 1-0-0 */
+#firstDiv {
+    background-color: teal;
+    margin-top: 100%;
+}
+
+/* 0-1-1 */
+p:nth-child(2n) {
+    color: yellow;
+}
+
+/* 0-1-1 */
+p:hover {
+    color:skyblue;
+}
+
+/* 0-1-1 */
+p.classer3 {
+    color: slategrey;
+}
+
+/* 0-2-1 */
+div:nth-child(2n):hover {
+    background-color: thistle;
+}
+
+/* 0-0-2 */
+div ~ p {
+    color: brown;
+}
