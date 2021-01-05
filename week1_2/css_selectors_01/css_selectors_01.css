@@ -1,0 +1,25 @@
+p {
+    font-size: 2em;
+}
+
+a:link {
+    color: red;
+}
+
+a:hover {
+    font-size: 1.1em;
+    background-color: yellow;
+    border: 3px solid black;
+}
+
+a:visited {
+    color:purple;
+}
+
+p:active {
+    background-color: blue;
+    color: white;
+}
+a:active {
+    color: black;
+}
