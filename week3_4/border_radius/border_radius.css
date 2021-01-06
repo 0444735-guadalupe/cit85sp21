@@ -1,0 +1,18 @@
+h1 {
+    border: solid 2px black;
+    width: auto;
+    height: 150px;
+    margin: auto;
+    padding-top: 75px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+div {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border: solid black 1px;
+    border-radius: 75px 15px;
+    display: inline-block;
+}
