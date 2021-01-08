@@ -1,0 +1,28 @@
+.block {
+    display: block;
+    border: solid black 1px;
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    font-size: 24px;
+}
+
+.block2 {
+    display: block;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+}
+
+.inline {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+span {
+    background-color: yellow;
+    display: inline;
+    border: 1px solid black;
+    height: 20px;
+    width: 40px;
+}
