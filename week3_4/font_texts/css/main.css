@@ -1,0 +1,45 @@
+.serif {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.san-serif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.google-font1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.google-font2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+.toUpper {
+    text-transform: uppercase;
+}
+
+.shortSpacing {
+    letter-spacing: 1.2rem;
+}
+
+h1 {
+    text-shadow: black -.2rem .1rem .2rem;
+    color: whitesmoke;
+}
+
+.noLink {
+    text-decoration: none;
+}
+
+.onHover:hover {
+    text-decoration: underline;
+}
+
+.oldNews {
+    text-decoration: line-through;
+}
+
+.indenting {
+    text-indent: 1.3rem;
+}
