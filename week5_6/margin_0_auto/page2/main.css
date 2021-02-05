@@ -1,0 +1,50 @@
+body {
+    border: 2px solid blue;
+    margin: auto;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 10rem;
+}
+
+section {
+    border: 1px solid blue;
+    height: fit-content;
+    margin: auto;
+    padding: 10rem;
+}
+
+.box1 {
+    height: 5rem;
+    width: 10rem;
+    background-color: red;
+    border: 2px solid black;
+    border-radius: 5%;
+    margin: 3rem auto;
+}
+
+.box2 {
+    height: 5rem;
+    width: 10rem;
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 5%;
+    margin: 3rem auto;
+}
+
+.box3 {
+    height: 5rem;
+    width: 10rem;
+    background-color: yellow;
+    border: 2px solid black;
+    border-radius: 5%;
+    margin: 3rem auto;
+}
+
+.box4 {
+    height: 5rem;
+    width: 10rem;
+    background-color: green;
+    border: 2px solid black;
+    border-radius: 5%;
+    margin: 3rem auto;
+}

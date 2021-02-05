@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(3, 82, 187);
+}
+
+section {
+    background-color: rgb(37, 240, 138);
+    border: .24rem black solid;
+    width: 60%;
+    margin: auto;
+}
+
+.surf-dog {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 50%;
+    border: .5rem groove yellow;
+}
+
+figure {
+    width: fit-content;
+    height: fit-content;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.first-header {
+    color: red;
+}
+
+.second-header {
+    color: blue;
+}
